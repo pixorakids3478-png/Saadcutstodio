@@ -1,0 +1,7 @@
+{
+  "name": "SaadCut Studio",
+  "description": "Professional Offline Video Editor with multi-track timeline, cinematic color grading, animated titles, speed ramping, and local FFmpeg rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
